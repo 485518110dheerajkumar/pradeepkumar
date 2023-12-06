@@ -189,6 +189,10 @@ li input{
      
     
 }
+.login button a{
+    color:white;
+    text-decuration:none;
+}
 .login button{
     width: 25vh;
     height: 7vh;
